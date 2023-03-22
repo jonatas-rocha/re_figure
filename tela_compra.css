@@ -211,13 +211,33 @@ body
   .nome_do_bagulho
   {
     width: 300px;
-    height: 100px;
-    background-color: rgb(250, 249, 249);
-    margin-left: 100px;
-    margin-bottom: 490px;
+    height: 400px;
+    background-color:rgb(187, 186, 186);
+    margin-left: 75px;
+    margin-bottom: 190px;
+    flex-direction: column;
+    align-content: center;
+    display: flex;
+    font-size: 15px;
+    margin-top: 10px;
+    
    
   }
- 
+
+  .quadrado3
+  {
+    width: 300px;
+    height: 200px;
+    background-color:rgb(187, 186, 186);
+    margin-right: 300px;
+    margin-top: 1px;
+    font-size: 10px;
+
+  }
+
+
+
+
   nav ul {
     width: 100%;
     display: flex;
